@@ -1,16 +1,25 @@
-### Hi there 👋
+## 👋 Olá, eu sou o Kalberis!
 
-<!--
-**Kalberis/Kalberis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontra meus projetos, contribuições e aprendizados.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Atualmente trabalhando em: [Descreva seu projeto ou área de atuação]
+- 📚 Aprendendo: [Tecnologias, linguagens ou temas de interesse]
+- 🤝 Buscando colaborar em: [Projetos ou tipos de colaboração]
+- 💡 Interesses: [Tópicos que te entusiasmam]
+- 🌱 Sempre aberto a aprender coisas novas
+
+### 📫 Como me encontrar
+
+- E-mail: [Seu email]
+- LinkedIn: [Seu LinkedIn]
+- Outras redes: [Adicione se desejar]
+
+### 🏆 Curiosidades
+
+- [Compartilhe um fato interessante sobre você ou sobre sua trajetória]
+
+---
+
+> Sinta-se à vontade para explorar meus repositórios e entrar em contato!
